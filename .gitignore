@@ -1,4 +1,5 @@
 *.pickle
+*.pkl
 *.tif
 *.zip
 *.csv
